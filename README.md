@@ -1,7 +1,7 @@
-# Speaker Diarization Workflow (CoSSHIv2-034 / 035 / 050 / 051)
+# Speaker Diarization Workflow
 
 Scripts to build, verify, predict, and evaluate the synthetic Speaker
-Diarization dataset for CoSSHIv2, matching your real data layout:
+Diarization dataset for , matching your real data layout:
 
 - Multiple WAV folders (any number, any names, any nesting) sharing one
   common parent folder.
