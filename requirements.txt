@@ -1,0 +1,8 @@
+datasets
+soundfile
+librosa
+pyannote.audio
+pyannote.metrics
+tqdm
+numpy
+scipy
